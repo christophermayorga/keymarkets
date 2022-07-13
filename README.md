@@ -1,0 +1,1 @@
+This repo contains exploration of a dataset provided by the US Department of Energy on communities' risks as they relate to environmental justice.
